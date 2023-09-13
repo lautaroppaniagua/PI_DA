@@ -53,37 +53,37 @@ Muestra sencillamente el ultimo valor de los 3 KPIS presentados
 - Tasa de gravedad por siniestro: Cantidad de accidentes que terminan con lesiones graves entre todos los siniestros registrados
 - Tasa de homicidios viales: Numeros de victimas fatales en accidentes de transito por cada 100 mil habitantes
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%202.png)
+![Untitled](src/Untitled%202.png)
 
 ### Desempeño de KPIs a lo largo del año
 
 De igual manera, muestra los KPIs nombrados arriba, pero acompañados de un grafico que nos muestra los cambios de este a lo largo de los años y su cambio porcentual
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%203.png)
+![Untitled](src/Untitled%203.png)
 
 ### Mapa de siniestros por comuna
 
 Un mapa con sus separaciones por comuna y la cantidad de siniestros que hay en cada una de estas, a su vez tambien nos permite filtrar si quisiesemos observar los datos de una comuna especifica.
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%204.png)
+![Untitled](src/Untitled%204.png)
 
 ### Grafico de accidentes por mes y año
 
 Un grafico de lineas que nos muestra el comportamiento y la cantidad de siniestros a lo largo de cada mes en los distintos años que se posee datos.
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%205.png)
+![Untitled](src/Untitled%205.png)
 
 ### Grafico de rango etario
 
 Graficamos los rangos etarios mas propensos a ser victimas de siniestros y a su vez nos permite filtrar por cada uno de estos.
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%206.png)
+![Untitled](src/Untitled%206.png)
 
 ### Treemap vehiculos victimas
 
 Por medio de un mapeo de arboles podemos ver los vehiculos mas propensos a ser victimas de accidentes automovilisticos y tambien filtrar por ellos.
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%207.png)
+![Untitled](src/Untitled%207.png)
 
 ---
 
@@ -99,81 +99,81 @@ A continuacion mostraremos los graficos pertinentes a su distribucion en distint
 
 ### Anual
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%208.png)
+![Untitled](src/Untitled%208.png)
 
 ### Mensual
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%209.png)
+![Untitled](src/Untitled%209.png)
 
 ### Diario
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2010.png)
+![Untitled](src/Untitled%2010.png)
 
 ### Horario
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2011.png)
+![Untitled](src/Untitled%2011.png)
 
 ## Correlaciones dia y hora
 
 ### Lesiones
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2012.png)
+![Untitled](src/Untitled%2012.png)
 
 ### Homicidios
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2013.png)
+![Untitled](src/Untitled%2013.png)
 
 ### Por vehiculos involucrados
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2014.png)
+![Untitled](src/Untitled%2014.png)
 
 ### Por tipo de vehiculo victima
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2015.png)
+![Untitled](src/Untitled%2015.png)
 
 ### Por tipo de vehiculo acusado
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2016.png)
+![Untitled](src/Untitled%2016.png)
 
 ## Distribucion en victimas
 
 ### Por genero
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2017.png)
+![Untitled](src/Untitled%2017.png)
 
 ### Por rango etario
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2018.png)
+![Untitled](src/Untitled%2018.png)
 
 ### Probabilidad de mortalidad por rango etario
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2019.png)
+![Untitled](src/Untitled%2019.png)
 
 ### Probabilidad de lesion grave por rango etario
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2020.png)
+![Untitled](src/Untitled%2020.png)
 
 ## Mapas
 
 ### Mapas de siniestros por comuna
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2021.png)
+![Untitled](src/Untitled%2021.png)
 
 ### Mapas de siniestros por gravedad (muerte o lesion)
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2022.png)
+![Untitled](src/Untitled%2022.png)
 
 ### Mapa de calor por siniestros
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2023.png)
+![Untitled](src/Untitled%2023.png)
 
 ### Mapa de controles vehiculares
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2024.png)
+![Untitled](src/Untitled%2024.png)
 
 ### Mapa de calor de controles vehiculares
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%2025.png)
+![Untitled](src/Untitled%2025.png)
 
 # Conclusiones
 
