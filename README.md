@@ -37,13 +37,13 @@ Una vez realizada la instalacion puede correr el EDA tranquilamente.
 
 El dashboard de tableau nos permite visualizar comodamente estdisticas generales de nuestras fuentes de datos. A continuacion daremos un breve repaso por cada elemento en el
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled.png)
+![Untitled](src/Untitled.png)
 
 ### Distribucion sexo
 
 Nos muestra la distribucion de victimas de siniestros segun su sexo
 
-![Untitled](README%201c8aa72e6ba04ae4b0024de9eb10b273/Untitled%201.png)
+![Untitled](src/Untitled%201.png)
 
 ### KPIs
 
